@@ -13,7 +13,7 @@ Este projeto tem como objetivo construir um modelo preditivo para identificar a 
 ## 🎯 Fonte de Dados
 
 - Os dados utilizados foram obtidos no **Kaggle**, contendo variáveis como idade, sexo, resultados de exames médicos (colesterol, pressão arterial, etc.), histórico clínico, entre outros.  
-- O dataset do Kaggle é comumente usado para problemas de classificação de doenças cardíacas.
+- O dataset foi resgatado no Kaggle.
 
 ---
 
